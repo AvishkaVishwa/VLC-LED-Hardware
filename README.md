@@ -3,7 +3,7 @@
 Custom PCB designs for a Visible Light Communication (VLC) system using Variable Pulse Position Modulation (VPPM).
 
 <p align="center">
-  <img src="aAssets\1.jpg" width="620"/>
+  <img src="Assets\1.jpg" width="620"/>
 </p>
 
 
